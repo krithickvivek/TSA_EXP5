@@ -86,5 +86,10 @@ plt.xlabel('Year')
 
 <img width="713" height="528" alt="image" src="https://github.com/user-attachments/assets/51be3a1d-b5c6-428a-9a33-b1c8c3fe4a75" />
 
+### RESIDUAL REPRESENTATION 
+
+<img width="718" height="532" alt="image" src="https://github.com/user-attachments/assets/2e5a0121-df4e-426a-942f-86401f371a69" />
+
+
 ## RESULT:
 Thus we have created the python code for the time series analysis and decomposition.
